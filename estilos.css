@@ -1,0 +1,85 @@
+.sofia{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: pink;
+	width: 1350px;
+	height: 635px;
+}
+.ana{
+	position: absolute;
+	top: 40px;
+	left: 60px;
+	background: black;
+	width: 120px;
+	height: 120px;
+	transition: all 1s 3s;
+	background: url(descarga.JPEG);
+
+
+}
+.ana:hover{
+	height: 500px;
+	width: 1250px;
+	background-size: cover;
+	background:  #D7BDE2;
+
+}
+.an{
+	position: absolute;
+	top: 200px;
+	left: 60px;
+	background: black;
+	width: 120px;
+	height: 120px;
+	transition: all 1s 3s;
+	background: url(descarga2.JPEG);
+
+}
+.an:hover{
+	height: 520px;
+	width: 1250px;
+	background:  #D7BDE2;
+}
+.sof{
+	position: absolute;
+	top: 350px;
+	left: 60px;
+	background: black;
+	width: 120px;
+	height: 120px;
+	transition: all 1s 3s;
+	background: url(descarga3.JPEG);
+}
+.sof:hover{
+	height: 520px;
+	width: 1250px;
+	background-size: cover;
+	background:  #D7BDE2;
+}
+.sofi{
+	position: absolute;
+	top: 500px;
+	left: 60px;
+	background: black;
+	width: 120px;
+	height: 120px;
+	transition: all 1s 3s;
+	background: url(descarga4.JPEG);
+}
+.sofi:hover{
+	height: 520px;
+	width: 1250px;
+	background-size: cover;
+	background:  #D7BDE2;
+}
+.aaa{
+	position: absolute;
+	top: 50px;
+	left: 200px;
+	background:  #D7BDE2;
+	width: 1150px;
+	height: 550px;
+	font-size: 80px;
+	background: white;
+}
